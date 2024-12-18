@@ -2,6 +2,11 @@
 
 The **Advanced Dice Game** is a web-based interactive dice game where players compete to achieve the highest score within six rounds. It combines strategy and chance, requiring players to decide whether to keep their current scores or take risks for higher points.
 
+## 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/6d70204d-c83c-4689-840f-4bfbb94878d1)
+
+
 ## ✨ Features
 
 - 🎮 **Interactive Gameplay**: Roll dice, track rounds, and choose scoring options dynamically.
@@ -63,9 +68,6 @@ You need a modern web browser to run the game.
 5. 🔁 Repeat until all six rounds are complete.
 6. 🏆 Your total score is displayed at the end of the game.
 
-## 📸 Screenshots
-
-![image](https://github.com/user-attachments/assets/6d70204d-c83c-4689-840f-4bfbb94878d1)
 
 
 ## 🛠️ Technologies Used
