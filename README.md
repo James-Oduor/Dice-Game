@@ -1,7 +1,7 @@
 # 🎲 Advanced Dice Game
 
 The **Advanced Dice Game** is a web-based interactive dice game where players compete to achieve the highest score within six rounds. It combines strategy and chance, requiring players to decide whether to keep their current scores or take risks for higher points.
-
+This is the hyperlink for this project https://dice-game-projec.netlify.app/
 ## 📸 Screenshots
 
 ![image](https://github.com/user-attachments/assets/6d70204d-c83c-4689-840f-4bfbb94878d1)
@@ -41,11 +41,7 @@ The **Advanced Dice Game** is a web-based interactive dice game where players co
 
 You need a modern web browser to run the game.
 
-### Installation
 
-1. 🔗 Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/advanced-dice-game.git
    ```
 2. 📂 Navigate to the project directory:
    ```bash
@@ -96,3 +92,4 @@ This project is licensed under the MIT License.
 - 🎲 Inspired by traditional dice games.
 - 💡 Special thanks to developers and designers who contributed ideas.
 
+https://dice-game-projec.netlify.app/
