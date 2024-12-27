@@ -4,7 +4,8 @@ The **Advanced Dice Game** is a web-based interactive dice game where players co
 This is the hyperlink for this project https://dice-game-projec.netlify.app/
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/6d70204d-c83c-4689-840f-4bfbb94878d1)
+![image](https://github.com/user-attachments/assets/0b64a3b3-054a-48ba-8f3a-149b66e0736b)
+
 
 
 ## ✨ Features
