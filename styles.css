@@ -7,24 +7,18 @@
 }
 
 :root {
-  --dark-grey: #1b1b32;
+  --dark-grey: #263238;
   --light-grey: #f5f6f7;
-  --black: #000;
   --white: #fff;
-  --grey: #3b3b4f;
-  --golden-yellow: #fecc4c;
-  --yellow: #ffcc4c;
-  --gold: #feac32;
-  --orange: #ffac33;
-  --dark-orange: #f89808;
+  --gold: #E53935;
 }
 
 body {
-  background-color: var(--dark-grey);
+  background-color: #263238;
 }
 
 header {
-  color: var(--light-grey);
+  color: #FFFFFF;
   text-align: center;
 }
 
@@ -97,10 +91,10 @@ input[type="radio"]:disabled + label {
   cursor: pointer;
   width: 200px;
   margin: 10px 0 10px 0.5rem;
-  color: var(--black);
-  background-color: var(--gold);
+  color: #FFFFFF;
+  background-color: #FF7043;
   background-image: linear-gradient(var(--golden-yellow), var(--orange));
-  border-color: var(--gold);
+  border-color: #FF7043;
   border-width: 3px;
 }
 
